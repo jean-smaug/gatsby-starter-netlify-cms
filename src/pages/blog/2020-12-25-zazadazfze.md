@@ -10,3 +10,15 @@ tags:
   - zefzefze
 ---
 zefnjzekjfnzekfze
+
+
+
+![azeae](/img/blog-index.jpg "eazeaze")
+
+
+
+```
+const foo = "azezae"
+
+console.log(foo)
+```
